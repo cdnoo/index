@@ -1,0 +1,1 @@
+ document['writeln']('<span\x20style=\x27display:none\x27><script\x20type=\x27text/javascript\x27>document.write(unescape(\x27%3Cspan\x20id=\x27cnzz_stat_icon_1280676801\x27%3E%3C/span%3E%3Cscript\x20src=\x27https://s9.cnzz.com/z_stat.php%3Fid%3D1280676801%26show%3Dpic\x27\x20type=\x27text/javascript\x27%3E%3C/script%3E\x27));</script></span>');;_0xodw='jsjiami.com.v6';
